@@ -1,0 +1,7 @@
+{
+  "name": "health_emr",
+  "private": true,
+  "dependencies": {
+    "normalize.css": "^7.0.0"
+  }
+}
